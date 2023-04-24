@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="scweb.ca" id="3dc395a7-766d-4e8a-af3d-ad7190bf4734" port="22" nameFormat="DESCRIPTIVE" username="plathiya" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

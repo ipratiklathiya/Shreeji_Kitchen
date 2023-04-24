@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a723dea5-d882-49a1-b523-1f9c8e6df96f" name="https://plathiya.scweb.ca/">
+        <fileTransfer accessType="SFTP" host="scweb.ca" port="22" sshConfigId="3dc395a7-766d-4e8a-af3d-ad7190bf4734" sshConfig="plathiya@scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
